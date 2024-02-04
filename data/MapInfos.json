@@ -1,6 +1,6 @@
 [
 null,
+{"id":1,"expanded":false,"name":"Dining Room","order":2,"parentId":3,"scrollX":1228.5,"scrollY":691.5},
 null,
-null,
-{"id":3,"expanded":false,"name":"Mansion","order":1,"parentId":0,"scrollX":811,"scrollY":979}
+{"id":3,"expanded":true,"name":"Mansion","order":1,"parentId":0,"scrollX":1216.5,"scrollY":748.5}
 ]
