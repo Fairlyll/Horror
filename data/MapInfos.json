@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Dining Room","order":2,"parentId":3,"scrollX":810,"scrollY":503.5},
-{"id":2,"expanded":true,"name":"Julia's Room","order":5,"parentId":4,"scrollX":818,"scrollY":456.5},
-{"id":3,"expanded":true,"name":"Mansion","order":1,"parentId":0,"scrollX":810,"scrollY":603.5},
-{"id":4,"expanded":true,"name":"Second Floor","order":4,"parentId":3,"scrollX":810,"scrollY":459.5},
-{"id":5,"expanded":false,"name":"MAP005","order":3,"parentId":1,"scrollX":818,"scrollY":456.5}
+{"id":1,"expanded":true,"name":"Dining Room","order":2,"parentId":3,"scrollX":811,"scrollY":499},
+{"id":2,"expanded":true,"name":"Julia's Room","order":5,"parentId":4,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Mansion","order":1,"parentId":0,"scrollX":811,"scrollY":599},
+{"id":4,"expanded":true,"name":"Second Floor","order":4,"parentId":3,"scrollX":811,"scrollY":939},
+{"id":5,"expanded":false,"name":"MAP005","order":3,"parentId":1,"scrollX":819,"scrollY":461}
 ]
